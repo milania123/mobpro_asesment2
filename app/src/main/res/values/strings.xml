@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Catatan Tugas</string>
+    <string name="nama">Nama tugas</string>
+    <string name="deadline">Deadline tugas</string>
+    <string name="catatan">Catatan tambagan</string>
+    <string name="masuk">Masukan</string>
+    <string name="lihat">Lihat</string>
+    <string name="nama_invalid">Nama tugas tidak boleh kosong</string>
+    <string name="dateline_invalid">Deadline tugas tidak boleh kosong</string>
+    <string name="catatan_invalid">Catatan tambahan tidak boleh kosong</string>
+    <string name="simpan">Sudah tersimpan</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="reset">Reset</string>
+    <string name="textnama">"Tugas: %1$s"</string>
+    <string name="textDeadline">Deadline tugas: dd/mm/yy</string>
+    <string name="textCatn">Catatan: %1$s</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="bagikan_template">Tugas: %1$s \nDeadline tugas: %2$s
+    \nCatatan: %3$s</string>
+    <string name="hintNama">mobpro ass2</string>
+    <string name="hintDate">dd/mm/yy</string>
+    <string name="hintCttn">ayo semangat!</string>
+    <string name="copyright">Catatan Tugas merupakan sebuah aplikasi untuk mencatat
+    tugas anda yang harus di kerjaan agar anda tidak lupa dengan tugas tersebut.
+        \n\nAplikasi ini di buat bagi kamu yang sering melupakan tugas. Aplikasi ini akan membantu anda.</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="belum_ada_data">Belum ada data</string>
+</resources>
